@@ -86,12 +86,12 @@ Each extension was manually reviewed to check:
 
 | Action Taken                            | Result |
 |----------------------------------------|--------|
-| Extensions Reviewed                     | ✅ Yes |
-| Suspicious Extensions Found             | ❌ No |
-| Extensions Removed                      | ❌ None needed |
-| Browser Restarted                       | ✅ Yes |
-| Performance Issues Observed             | ❌ None |
-| Security Recommendations Documented     | ✅ Yes |
+| Extensions Reviewed                     |  Yes |
+| Suspicious Extensions Found             |  No |
+| Extensions Removed                      |  None needed |
+| Browser Restarted                       |  Yes |
+| Performance Issues Observed             |  None |
+| Security Recommendations Documented     |  Yes |
 
 ---
 
